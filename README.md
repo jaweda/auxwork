@@ -1,2 +1,2 @@
 # auxwork
-Programs code in various language
+Programs coded in various languages
